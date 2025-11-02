@@ -1,4 +1,4 @@
 # firstrepo
 this is my first github repo
 <br>
-author - Pranjal Kumar Singh
+author - Pranjal Kumar Singh (IIT Kharagpur)
